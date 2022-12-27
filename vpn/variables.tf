@@ -1,3 +1,4 @@
 locals {
-  default_region  = "asia-northeast1"
+  region  = "asia-northeast1"
+  project = "Replace with your GPC project"
 }
